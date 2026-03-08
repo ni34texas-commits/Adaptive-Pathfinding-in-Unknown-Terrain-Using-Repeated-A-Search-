@@ -1,1 +1,1 @@
-# Adaptive-Pathfinding-in-Unknown-Terrain-Using-Repeated-A-Search-
+# Adaptive Pathfinding in Unknown Terrain Using Repeated A* Search
